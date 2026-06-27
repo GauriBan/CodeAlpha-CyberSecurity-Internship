@@ -18,4 +18,4 @@ This project is a phishing awareness presentation created as part of the CodeAlp
 
 ## Author
 
-Gauri Bansal
+Gauri

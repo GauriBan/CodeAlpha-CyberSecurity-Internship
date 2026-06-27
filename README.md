@@ -25,4 +25,4 @@ This repository contains the tasks completed as part of the CodeAlpha Cyber Secu
 
 ## Author
 
-**Gauri Bansal**
+**Gauri**
